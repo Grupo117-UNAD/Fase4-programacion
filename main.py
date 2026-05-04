@@ -4,7 +4,7 @@ from reserva import Reserva
 from logger import registrar_evento
 import sys
 
-def menu():
+def menu():#menu
     clientes = []
     servicios = [
         ReservaSala("Sala VIP", 100000),
