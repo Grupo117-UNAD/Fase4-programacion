@@ -1,0 +1,5 @@
+2026-04-30 22:33:40,393 - INFO - Reserva OK: Juan Sanchez - Sala de Juntas
+2026-04-30 22:33:40,394 - ERROR - Error detectado: Cantidad inválida: -5
+2026-04-30 22:33:40,394 - ERROR - Error detectado: Faltan datos del cliente.
+2026-04-30 22:33:40,395 - INFO - Reserva OK: Santiago Giraldo - Clase Python
+2026-04-30 22:42:15,945 - INFO - Reserva exitosa: jorge perea - 714000.0
